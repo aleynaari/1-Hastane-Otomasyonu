@@ -1,0 +1,92 @@
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaMenu.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Doktorlar.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hastalar.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Poliklinik.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\HastaneProje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaMenu.resources
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Doktorlar.resources
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hastalar.resources
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Poliklinik.resources
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaMenu.resources
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Doktorlar.resources
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hastalar.resources
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Poliklinik.resources
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aleyna.ari\Desktop\Projeler\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaMenu.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Doktorlar.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hastalar.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Poliklinik.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\aleyna.ari\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Raporlama.resources
+C:\Users\Aleyna\Desktop\Projects\Hastane-Proje\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Raporlama.resources
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaMenu.resources
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Doktorlar.resources
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hastalar.resources
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Poliklinik.resources
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Raporlama.resources
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnaMenu.resources
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Doktorlar.resources
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hastalar.resources
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Poliklinik.resources
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Raporlama.resources
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aleyna.ari\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Aleyna\Desktop\Projects\1)Hastane-Proje-ado.net prosedurlu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
