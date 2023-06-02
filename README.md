@@ -1,3 +1,3 @@
 # 1-Hastane-Otomasyonu
 
-![Alt text](img/Ekran Alıntısı1)
+<img src="/img/Ekran Alıntısı1.jpg" alt="Alt text" title="Optional title">
